@@ -1,0 +1,9 @@
+C:\Users\Carlos\Desktop\Programacion-2-master\Clase_03\Objeto_01\obj\Debug\netstandard2.0\Objeto_01.csprojAssemblyReference.cache
+C:\Users\Carlos\Desktop\Programacion-2-master\Clase_03\Objeto_01\obj\Debug\netstandard2.0\Objeto_01.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Programacion-2-master\Clase_03\Objeto_01\obj\Debug\netstandard2.0\Objeto_01.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Programacion-2-master\Clase_03\Objeto_01\obj\Debug\netstandard2.0\Objeto_01.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Programacion-2-master\Clase_03\Objeto_01\bin\Debug\netstandard2.0\Objeto_01.deps.json
+C:\Users\Carlos\Desktop\Programacion-2-master\Clase_03\Objeto_01\bin\Debug\netstandard2.0\Objeto_01.dll
+C:\Users\Carlos\Desktop\Programacion-2-master\Clase_03\Objeto_01\bin\Debug\netstandard2.0\Objeto_01.pdb
+C:\Users\Carlos\Desktop\Programacion-2-master\Clase_03\Objeto_01\obj\Debug\netstandard2.0\Objeto_01.dll
+C:\Users\Carlos\Desktop\Programacion-2-master\Clase_03\Objeto_01\obj\Debug\netstandard2.0\Objeto_01.pdb

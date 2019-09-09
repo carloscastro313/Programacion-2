@@ -1,0 +1,9 @@
+C:\Users\Carlos\Desktop\Programacion-2-master\Objetos_ejecicio16\Alumno\bin\Debug\netstandard2.0\Alumno.deps.json
+C:\Users\Carlos\Desktop\Programacion-2-master\Objetos_ejecicio16\Alumno\bin\Debug\netstandard2.0\Alumno.dll
+C:\Users\Carlos\Desktop\Programacion-2-master\Objetos_ejecicio16\Alumno\bin\Debug\netstandard2.0\Alumno.pdb
+C:\Users\Carlos\Desktop\Programacion-2-master\Objetos_ejecicio16\Alumno\obj\Debug\netstandard2.0\Alumno.csprojAssemblyReference.cache
+C:\Users\Carlos\Desktop\Programacion-2-master\Objetos_ejecicio16\Alumno\obj\Debug\netstandard2.0\Alumno.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Programacion-2-master\Objetos_ejecicio16\Alumno\obj\Debug\netstandard2.0\Alumno.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Programacion-2-master\Objetos_ejecicio16\Alumno\obj\Debug\netstandard2.0\Alumno.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Programacion-2-master\Objetos_ejecicio16\Alumno\obj\Debug\netstandard2.0\Alumno.dll
+C:\Users\Carlos\Desktop\Programacion-2-master\Objetos_ejecicio16\Alumno\obj\Debug\netstandard2.0\Alumno.pdb
