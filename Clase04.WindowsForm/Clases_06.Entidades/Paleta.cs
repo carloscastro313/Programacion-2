@@ -97,13 +97,13 @@ namespace Clases_06.Entidades
                 return indice;
             }
 
-        public static int operator |(Paleta a, Tempera b)
+        /*public static int operator |(Paleta a, Tempera b)
         {
             if(a == b)
             {
 
 
             }
-        }
+        }*/
     }
 }

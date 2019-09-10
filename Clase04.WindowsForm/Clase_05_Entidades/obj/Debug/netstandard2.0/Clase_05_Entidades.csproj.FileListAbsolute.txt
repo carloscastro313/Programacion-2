@@ -7,3 +7,12 @@ C:\Users\Carlos\Desktop\Carpeta sin título\Clase04.WindowsForm\Clase_05_Entidad
 C:\Users\Carlos\Desktop\Carpeta sin título\Clase04.WindowsForm\Clase_05_Entidades\obj\Debug\netstandard2.0\Clase_05_Entidades.AssemblyInfo.cs
 C:\Users\Carlos\Desktop\Carpeta sin título\Clase04.WindowsForm\Clase_05_Entidades\obj\Debug\netstandard2.0\Clase_05_Entidades.dll
 C:\Users\Carlos\Desktop\Carpeta sin título\Clase04.WindowsForm\Clase_05_Entidades\obj\Debug\netstandard2.0\Clase_05_Entidades.pdb
+D:\Castro Carlos\Programacion-2\Clase04.WindowsForm\Clase_05_Entidades\bin\Debug\netstandard2.0\Clase_05_Entidades.deps.json
+D:\Castro Carlos\Programacion-2\Clase04.WindowsForm\Clase_05_Entidades\bin\Debug\netstandard2.0\Clase_05_Entidades.dll
+D:\Castro Carlos\Programacion-2\Clase04.WindowsForm\Clase_05_Entidades\bin\Debug\netstandard2.0\Clase_05_Entidades.pdb
+D:\Castro Carlos\Programacion-2\Clase04.WindowsForm\Clase_05_Entidades\obj\Debug\netstandard2.0\Clase_05_Entidades.csprojAssemblyReference.cache
+D:\Castro Carlos\Programacion-2\Clase04.WindowsForm\Clase_05_Entidades\obj\Debug\netstandard2.0\Clase_05_Entidades.csproj.CoreCompileInputs.cache
+D:\Castro Carlos\Programacion-2\Clase04.WindowsForm\Clase_05_Entidades\obj\Debug\netstandard2.0\Clase_05_Entidades.AssemblyInfoInputs.cache
+D:\Castro Carlos\Programacion-2\Clase04.WindowsForm\Clase_05_Entidades\obj\Debug\netstandard2.0\Clase_05_Entidades.AssemblyInfo.cs
+D:\Castro Carlos\Programacion-2\Clase04.WindowsForm\Clase_05_Entidades\obj\Debug\netstandard2.0\Clase_05_Entidades.dll
+D:\Castro Carlos\Programacion-2\Clase04.WindowsForm\Clase_05_Entidades\obj\Debug\netstandard2.0\Clase_05_Entidades.pdb

@@ -7,3 +7,12 @@ C:\Users\Carlos\Desktop\Carpeta sin título\Clase04.WindowsForm\ClassLibrary1\bi
 C:\Users\Carlos\Desktop\Carpeta sin título\Clase04.WindowsForm\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.pdb
 C:\Users\Carlos\Desktop\Carpeta sin título\Clase04.WindowsForm\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.dll
 C:\Users\Carlos\Desktop\Carpeta sin título\Clase04.WindowsForm\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.pdb
+D:\Castro Carlos\Programacion-2\Clase04.WindowsForm\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.deps.json
+D:\Castro Carlos\Programacion-2\Clase04.WindowsForm\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.dll
+D:\Castro Carlos\Programacion-2\Clase04.WindowsForm\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.pdb
+D:\Castro Carlos\Programacion-2\Clase04.WindowsForm\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csprojAssemblyReference.cache
+D:\Castro Carlos\Programacion-2\Clase04.WindowsForm\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\Castro Carlos\Programacion-2\Clase04.WindowsForm\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfoInputs.cache
+D:\Castro Carlos\Programacion-2\Clase04.WindowsForm\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfo.cs
+D:\Castro Carlos\Programacion-2\Clase04.WindowsForm\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.dll
+D:\Castro Carlos\Programacion-2\Clase04.WindowsForm\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.pdb
