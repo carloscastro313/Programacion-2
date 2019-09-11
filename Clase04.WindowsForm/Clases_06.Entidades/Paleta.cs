@@ -4,11 +4,21 @@ using System.Text;
 
 namespace Clases_06.Entidades
 {
-        public class Paleta
-        {
+    public class Paleta
+    {
             private Tempera[] colores;
             private int cantidadMaximaColores;
+            
+            public Tempera this[int index]
+            {
+                get { return this.colores[index]; }
 
+                set { this.colores[index] = value; }
+            }
+            public int indexMax
+            {
+                get { return this.cantidadMaximaColores; }
+            }
 
             private Paleta() : this(5) { }
 
@@ -82,28 +92,24 @@ namespace Clases_06.Entidades
 
             private int obtenerLugarLibre()
             {
-                int indice = -1;
+                int i = 0;
 
-                for (int i = 0; i < this.cantidadMaximaColores; i++)
+                foreach(Tempera aux in this.colores)
                 {
-                    if (this.colores[i] == null)
+                    if (aux == null)
                     {
-                        indice = i;
-                        break;
+                        return i;                       
                     }
+                i++;
                 }
 
 
-                return indice;
+                return -1;
             }
 
-        /*public static int operator |(Paleta a, Tempera b)
+        public static int operator |(Paleta a, Tempera b)
         {
-            if(a == b)
-            {
-
-
-            }
-        }*/
+            return Array.IndexOf(a.colores, b);   
+        }
     }
 }
