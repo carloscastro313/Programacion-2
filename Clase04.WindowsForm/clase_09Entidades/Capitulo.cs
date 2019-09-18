@@ -33,10 +33,7 @@ namespace clase_09Entidades
             Capitulo.generadorDeNumero = new Random();
             Capitulo.generadorDePaginas = new Random();
         }
-        public Capitulo()
-        {
 
-        }
         private Capitulo(int numeroAux, string tituloAux, int paginaAux)
         {
             this.titulo = tituloAux;

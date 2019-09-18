@@ -43,7 +43,7 @@ namespace clase_09Entidades
             get {
                 if (i>=0 || i< this.capitulos.Count)
                 {
-                    return this[i];
+                    return this.capitulos[i];
                 }else
                 {
                     return null;
