@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2595A21F-DC74-4AE3-80ED-9F9EC2B341A5}</ProjectGuid>
+    <ProjectGuid>{E5072945-5D25-44A4-BA7A-0A57C444471A}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Clase_10WindowsForms</RootNamespace>
-    <AssemblyName>Clase_10WindowsForms</AssemblyName>
+    <RootNamespace>Clase_10</RootNamespace>
+    <AssemblyName>Clase_10</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,6 +45,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FrmAlumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAlumno.Designer.cs">
+      <DependentUpon>FrmAlumno.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmCatedra.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -57,22 +63,16 @@
     <Compile Include="FrmPrincipal.Designer.cs">
       <DependentUpon>FrmPrincipal.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmAlumno.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FrmAlumno.Designer.cs">
-      <DependentUpon>FrmAlumno.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmAlumno.resx">
+      <DependentUpon>FrmAlumno.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmCatedra.resx">
       <DependentUpon>FrmCatedra.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmPrincipal.resx">
       <DependentUpon>FrmPrincipal.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FrmAlumno.resx">
-      <DependentUpon>FrmAlumno.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -97,9 +97,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Clase_10ntidades\Clase_10Entidades.csproj">
-      <Project>{f8371d84-30e5-45ad-9049-2e7af20e6571}</Project>
-      <Name>Clase_10Entidades</Name>
+    <ProjectReference Include="..\Clase_10.Entidades\Clase_10.Entidades.csproj">
+      <Project>{b5bc5dfc-35e4-473c-bcbd-e8a15af13843}</Project>
+      <Name>Clase_10.Entidades</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -41,7 +41,7 @@ namespace clase_09Entidades
         public Capitulo this[int i]
         {
             get {
-                if (i>=0 || i< this.capitulos.Count)
+                if (i>=0 || i<= this.capitulos.Count)
                 {
                     return this.capitulos[i];
                 }else
