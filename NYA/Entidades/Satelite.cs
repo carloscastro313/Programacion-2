@@ -40,7 +40,6 @@ namespace Entidades
             this.InvocarEvento(this.Orbitar());
         }
 
-
         public override string ToString()
         {
             StringBuilder stringBuilder = new StringBuilder();
